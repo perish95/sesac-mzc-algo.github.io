@@ -100,6 +100,12 @@ problems:
     url: https://leetcode.com/problems/first-bad-version/
     difficulty: 1
     label: Easy
+  - id: leetcode-354
+    source: leetcode
+    title: 354. Russian Doll Envelopes
+    url: https://leetcode.com/problems/russian-doll-envelopes/
+    difficulty: 3
+    label: Hard
   - id: leetcode-79
     source: leetcode
     title: 79. Word Search
@@ -128,7 +134,9 @@ assignments:
       - leetcode-215
     random: leetcode-278
   perish95:
-    picked: []
+    picked:
+      - leetcode-354
+      - programmers-42746
     random: leetcode-79
   pinodo:
     picked: []
